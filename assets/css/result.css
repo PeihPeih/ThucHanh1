@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    color: #35509a;
+}
+
+
+.result-container {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin:20px 0 20px 20%;
+    height: 61vh;
+    width: 60%;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.result-info p {
+    margin-bottom: 10px;
+}
+
+.result-info span {
+    font-weight: bold;
+}

@@ -1,0 +1,43 @@
+[
+    {
+      "question": "Hãy giải thích ý nghĩa của học máy trong lĩnh vực công nghệ thông tin.",
+      "options": ""
+    },
+    {
+      "question": "Khái niệm về học sâu là gì? Nêu các ứng dụng phổ biến của học sâu trong thực tế.",
+      "options": ""
+    },
+    {
+      "question": "So sánh giữa học máy và học sâu. Điểm mạnh và điểm yếu của mỗi phương pháp là gì?",
+      "options": ""
+    },
+    {
+      "question": "Giải thích thuật toán học sâu Feedforward Neural Network (NN) và cách nó hoạt động.",
+      "options": ""
+    },
+    {
+      "question": "Trong học sâu, khái niệm 'backpropagation' là gì? Tại sao nó quan trọng trong việc huấn luyện các mô hình học sâu?",
+      "options": ""
+    },
+    {
+      "question": "Giải thích cách mạng Convolutional Neural Network (CNN) hoạt động và các ứng dụng của nó trong lĩnh vực thị giác máy tính.",
+      "options": ""
+    },
+    {
+      "question": "Nêu các biện pháp để chống overfitting trong học máy và học sâu.",
+      "options": ""
+    },
+    {
+      "question": "Trong học sâu, khái niệm 'recurrent neural networks' (RNNs) là gì? Các ứng dụng của RNNs là gì?",
+      "options": ""
+    },
+    {
+      "question": "Tại sao học sâu được xem là một bước đột phá quan trọng trong lĩnh vực trí tuệ nhân tạo?",
+      "options": ""
+    },
+    {
+      "question": "Nêu các phương pháp đánh giá hiệu suất của một mô hình học máy.",
+      "options": ""
+    }
+  ]
+  

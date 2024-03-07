@@ -1,0 +1,53 @@
+[
+    {
+      "question": "Các nguyên tố nào sau đây là kim loại?",
+      "options": ["Aluminum", "Oxygen", "Iron", "Hydrogen"],
+      "correct_answer": [1, 3]
+    },
+    {
+      "question": "Các ngôn ngữ lập trình nào sau đây là ngôn ngữ lập trình hướng đối tượng?",
+      "options": ["Java", "C", "Python", "Ruby"],
+      "correct_answer": [0, 2, 3]
+    },
+    {
+      "question": "Các quốc gia nào sau đây nằm ở châu Phi?",
+      "options": ["Egypt", "Japan", "Brazil", "Nigeria"],
+      "correct_answer": [0, 3]
+    },
+    {
+      "question": "Các phần mềm nào sau đây là phần mềm văn phòng?",
+      "options": ["Microsoft Word", "Adobe Photoshop", "LibreOffice Writer", "Google Chrome"],
+      "correct_answer": [0, 2]
+    },
+    {
+      "question": "Các loài động vật nào sau đây là động vật có vú?",
+      "options": ["Fish", "Dog", "Bird", "Cat"],
+      "correct_answer": [1, 3]
+    },
+    {
+      "question": "Các thành phố nào sau đây là thành phố ở châu Âu?",
+      "options": ["Paris", "Tokyo", "Berlin", "Sydney"],
+      "correct_answer": [0, 2]
+    },
+    {
+      "question": "Các môn học nào sau đây thuộc ngành khoa học máy tính?",
+      "options": ["Biology", "Computer Graphics", "Chemistry", "Algorithms"],
+      "correct_answer": [1, 3]
+    },
+    {
+      "question": "Các chất sau đây có tính axit?",
+      "options": ["HCl", "NaOH", "H2SO4", "CH4"],
+      "correct_answer": [0, 2]
+    },
+    {
+      "question": "Các nhà khoa học nào sau đây đã giành được giải Nobel về Hóa học?",
+      "options": ["Marie Curie", "Albert Einstein", "Linus Pauling", "Niels Bohr"],
+      "correct_answer": [0, 2]
+    },
+    {
+      "question": "Các màu sau đây là màu cơ bản?",
+      "options": ["Green", "Brown", "Magenta", "Gray"],
+      "correct_answer": [0, 1, 2, 3]
+    }
+  ]
+  

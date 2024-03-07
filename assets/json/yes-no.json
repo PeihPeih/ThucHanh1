@@ -1,0 +1,53 @@
+[
+    {
+      "question": "Trái đất xoay quanh mặt trời.",
+      "options": ["Đúng", "Sai"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Con người có thể sống trên mặt trăng mà không cần bất kỳ thiết bị bảo vệ nào.",
+      "options": ["Đúng", "Sai"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Cá voi là loài động vật biển có thể bay lên khỏi mặt nước.",
+      "options": ["Đúng", "Sai"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Hải cẩu chỉ sống ở vùng cận nhiệt đới.",
+      "options": ["Đúng", "Sai"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Nước sôi ở 100 độ C.",
+      "options": ["Đúng", "Sai"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Hoa hồng có màu xanh lá cây.",
+      "options": ["Đúng", "Sai"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Chuột là loài động vật biển.",
+      "options": ["Đúng", "Sai"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Mặt trăng có ánh sáng riêng của mình.",
+      "options": ["Đúng", "Sai"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Đại dương Thái Bình Dương là đại dương lớn nhất thế giới.",
+      "options": ["Đúng", "Sai"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Cây cỏ không cần ánh sáng.",
+      "options": ["Đúng", "Sai"],
+      "correct_answer": 2
+    }
+  ]
+  
