@@ -98,24 +98,27 @@ getQA = (path)=>{
     .then(data => {
       if(path.includes("yes-no")){
         for (let i = 0; i<data.length;i++){
-            creatQA1(i+1, data[i].question, data[i].options);
+            creatQA1(i+1, data[i].question, data[i].options);      submitExam(data);
+
           }      
       }
       else if (path.includes("tracnghiem")){
         for (let i = 0; i<data.length;i++){
-            creatQA2(10+i+1, data[i].question, data[i].options);
+            creatQA2(10+i+1, data[i].question, data[i].options);      submitExam(data);
+
           }      
       }
       else if (path.includes("multi")){
         for (let i = 0; i<data.length;i++){
-            creatQA3(20+i+1, data[i].question, data[i].options);
+            creatQA3(20+i+1, data[i].question, data[i].options);      submitExam(data);
+
           }      
       }
       else if (path.includes("tuluan")){
         for (let i = 0; i<data.length;i++){
-            creatQA4(30+i+1, data[i].question, data[i].options);
+            creatQA4(30+i+1, data[i].question, data[i].options);      submitExam(data);
+
           }           }
-      submitExam(data);
     })
     .catch(error => console.error('Error fetching JSON:', error))
 }
