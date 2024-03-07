@@ -77,18 +77,17 @@ convertSecond2Minutes = (second)=>{
 
       
 // Nộp bài thi
-submitExam = (question) => {
-  const submit_btn = document.querySelector(".submit-btn");
-  const form = document.querySelector("#form");
-  submit_btn.addEventListener('click', (event) => {
-    event.preventDefault();
+
+const submit_btn = document.querySelector(".submit-btn");
+const form = document.querySelector("#form");
+submit_btn.addEventListener('click', (event) => {
+  event.preventDefault();
+  form.submit();
+  window.alert("Nộp bài thành công")
+  window.location.href = "result.html";
   
-      form.submit();
-      window.alert("Nộp bài thành công")
-      window.location.href = "result.html";
-    
-  })
-}
+})
+
 
 
 // Display QA
@@ -114,8 +113,8 @@ getQA = (path)=>{
       else if (path.includes("tuluan")){
         for (let i = 0; i<data.length;i++){
             creatQA4(30+i+1, data[i].question, data[i].options);
-          }           }
-      submitExam(data);
+          }           
+        }
     })
     .catch(error => console.error('Error fetching JSON:', error))
 }
@@ -149,3 +148,4 @@ partBtns.forEach(item =>{
         }
     })
 })
+
